@@ -8,6 +8,6 @@ GitHubの練習用レポジトリ
 - bbbb
 - cccc
 
--AAAA
--BBBB
--CCCC
+- AAAA
+- BBBB
+- CCCC
